@@ -2,6 +2,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.narsingh">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,6 +15,36 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NARSINGH">
+        <activity
+            android:name=".scannerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.UpConstituency"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.AboutUs"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.ContactUs"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.MembersPage"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.QRcodeScannerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.BecomeVolunteer"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.BecomeMember"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.GalleryActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activities.HomeScreenActivity"
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true" />

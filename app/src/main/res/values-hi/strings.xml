@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">नरसिंह</string>
+    <string name="todo" >करने के लिए</string>
+    <string name="press_release">प्रेस विज्ञप्ति</string>
+    <string name="latest_events">नवीनतम घटनाओं</string>
+    <string name="events">आयोजन</string>
+    <string name="interview_and_articles">साक्षात्कार और लेख</string>
+    <string name="speeches_and_debates">भाषण और बहस</string>
+    <string name="donation">दान पात्र</string>
+    <string name="gallery">गेलरी</string>
+    <string name="instagramLogoImage" >https://seeklogo.com/images/I/instagram-logo-E0067A1403-seeklogo.com.png</string>
+    <string name="youTubeLogoImage" >https://toppng.com/uploads/preview/free-round-youtube-icon-vector-logo-11553541445tohp89dd6v.png</string>
+    <string name="twitterLogoImage" >https://www.pngfind.com/pngs/m/159-1595562_logo-twitter-nero-vector-twitter-icon-svg-hd.png</string>
+    <string name="name" >नाम</string>
+    <string name="e_mail" >ईमेल</string>
+    <string name="become_a_volunteer" >एक स्वयंसेवक बनें</string>
+    <string name="become_a_member" >सदस्य बने</string>
+
+</resources>

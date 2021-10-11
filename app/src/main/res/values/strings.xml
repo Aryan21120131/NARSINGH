@@ -1,3 +1,75 @@
 <resources>
     <string name="app_name">NARSINGH</string>
+    <string name="todo">TODO</string>
+    <string name="press_release">Press Release</string>
+    <string name="latest_events">LATEST EVENTS</string>
+    <string name="events">EVENTS</string>
+    <string name="interview_and_articles">INTERVIEW AND ARTICLES</string>
+    <string name="speeches_and_debates">SPEECHES AND DEBATES</string>
+    <string name="donation">DONATION</string>
+    <string name="gallery">GALLERY</string>
+    <string name="instagramLogoImage">https://www.instagram.com/invites/contact/?i=1he2z86dlkn77&amp;utm_content=ml5kafs</string>
+    <string name="youTubeLogoImage">https://i.pinimg.com/originals/09/f4/72/09f4726125ab5fa8cbcf754b9ba07e7c.jpg</string>
+    <string name="twitterLogoImage">https://twitter.com/NJP4INDIA?s=09</string>
+    <string name="name">NAME</string>
+    <string name="e_mail">E-mail</string>
+    <string name="become_a_volunteer">BECOME A Volunteer</string>
+    <string name="become_a_member">BECOME A MEMBER</string>
+    <string name="KooLogoLink" translatable="false">https://www.kooapp.com/img/KuhuNew.png</string>
+    <string name="FbIconLink" translatable="false">data:image/jpeg;base64,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</string>
+    <string name="member_1" translatable="false">चौधरी विजेंद्र सिहं वर्मा
+पर्वू र्वराज्यपाल
+पंजाब, हिमाचल,हरियाणा, चंडीगढ़
+Quote : मैंगरिमा सिहं पौत्री विजेंद्र वर्मापर्वू र्वगवर्नरर्न हिमाचल प्रदेश नसिृ हं जन पार्टी के संकल्प/उद्देश्य
+को पढ़ कर प्रसन्न मन सेआशीर्वाद देती हूँकि ईश्वर की कृपा सेपरूेभारतवर्ष मेंसत्ता मेंकाबिज हो और
+अपनेसनातनी मल्ूयों की पनः ु स्थापना करें, यही मेरेआदरणीय नाना जी पर्वू र्वगवर्नरर्न साहब चाहते थे</string>
+    <string name="member_2" translatable="false">Rajni pareshar
+Quote : Jai sanatan rashtra, jai narsingh jann. Party</string>
+    <string name="member_3" translatable="false">Dinesh Kumar Gupta
+Quote : नसिृ हं जन पार्टी का गठन सनातन समाज के सिद्धांतों को राष्ट्र व विश्व के कल्याण हेतु
+पनु र्जीवित कर पनः ु स्थापित करनेके लिए हुआ है
+धर्म की विजय हो जय हो
+अधर्म का नाश हो
+विश्व का कल्याण  हो</string>
+    <string name="member_4" translatable="false">Bhagwatacharya vishal krishna sharma
+Quotes : राम राज्य की स्थापना और भारत मेहिन्दूराष्ट्र का निर्माण होगा येसिर्फ नसिृ हं जन पार्टी
+ही कर सकती है!</string>
+    <string name="member_5" translatable="false">राष्ट्रीय अध्यक्ष , अश्विनी कुमार शर्मा
+Quotes : सनातन संस्कृति/परम्पराओ एवंसनातन मल्ूयों की रक्षा व हिन्दूराष्ट्र के निर्माण के साथ
+साथ सर्वहिर्व तप्रद धर्म नियंत्रित शासन तंत्र की स्थापना हमारा संकल्प!
+अश्विनी कुमार शर्मा
+संथापक/संरक्षक
+नसिृ हं जन दल</string>
+    <string name="member_6" translatable="false">Adv. Abhishek Bhatt
+Supreme Court Lawyer
+Quote : भारत माता को परम वभवै तक पहुँचनेके लिए जो नर्सिंगर्सिं जन पार्टी लक्ष्य निर्धारित किया
+है,और जब तक यह लक्ष्य पर्णू र्णनही हो जाता तब तक न हम आराम सेबठैेंगेन विश्राम सेबठै ेगेयही
+हमारा संकल्प है।</string>
+    <string name="member_7" translatable="false">Deepak Sharma
+Quote : नसिृ हं जन पार्टी एकमात्र ऐसी पार्टी हैजो हिन्दूभाइयों के हित के लिए , हिन्दूभाइयों के
+अधिकार के लिए , हिन्दूराष्ट्र बनानेके लिए हमेशा याद रखी जाएगी
+</string>
+    <string name="member_8" translatable="false">Mr. Vinod Upadhyay
+Quotes : सत्ता लोलपता ु तष्टि ु करण और जातीय आधार को त्यागकर हिन्दूसनातन सेसत्ता चलेगी तभी
+हिदं रा ू ष्ट्र की कल्पना साकार होगी</string>
+    <string name="member_9" translatable="false">Hiresh Singh
+Quotes : हिदं त्ुव के आधार शिला का निर्माण सिर्फ एक ही पार्टी कर सकती है,: नरसिहं जन पार्टी --
+हिरेश सिहं जी</string>
+    <string name="member_10" translatable="false">आदित्य चतर्वेु र्वेदी जी
+Quote : गौ माता की रक्षा (गौ हत्या पर) पर्णू र्णप्रतिवंध अगर कोई लगा सकता हैतो वो नसिृ हं जन पार्टी
+आदित्य चतर्वेु र्वेद</string>
+    <string name="member_11" translatable="false">महामंत्री संगठन : Eng.श्री वरुण शौर्य जी</string>
+    <string name="member_12" translatable="false">Sangeeta Sharma</string>
+    <string name="home">Home</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="scanner">SCANNER</string>
+    <string name="language">LANGUAGE</string>
+    <string name="become_a_member">BECOME A MEMBER</string>
+    <string name="download_id">DOWNLOAD ID</string>
+    <string name="members_list">MEMBERS LIST</string>
+    <string name="up_constituency">UP Constituency</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="news_article">News Article</string>
+
 </resources>
